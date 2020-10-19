@@ -1,7 +1,8 @@
 {
   "headers": {
     "/*" : {
-      "X-Author" : "voral"
+      "X-Author" : "voral",
+      "Access-Control-Allow-Origin" : "*"
     }
   }
 }
